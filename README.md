@@ -1,2 +1,0 @@
-# Tebaknomor
-Random number
